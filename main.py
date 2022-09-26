@@ -15,4 +15,3 @@ if bcrypt.checkpw(passwd2, hashed):
   """)
 else:
   print("Password is incorrect")
-  
